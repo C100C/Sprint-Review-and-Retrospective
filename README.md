@@ -1,7 +1,7 @@
 # Sprint-Review-and-Retrospective
 CS 250 Module 7 final project. 
 
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
 Interpreting user needs into a program can be a difficult task. First, we need to understand what the user needs are generally. What should this product do? To do so, we need to get user feedback either by survey or in-person meetings. 
 Next, we convert those needs into user stories which allow us to describe features of the project from the perspective of the user. It gives the team the ability to see what the purpose of a feature or task is.
